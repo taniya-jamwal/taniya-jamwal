@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm taniyajamwal</h1>
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="alternative-text">
+<img src="https://www.bgrafio.com/wp-content/uploads/2020/04/Animated-Explainer-Video-Bgrafio.gif" alt="alternative-text">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taniya-jamwal&label=Profile%20views&color=0e75b6&style=flat" alt="taniya-jamwal" /> </p>
 
